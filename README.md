@@ -10,3 +10,5 @@ If button sensor activates and heater on, then analog readings converted to digi
 By using these PWM, the digital values we can see on the oscilloscope.
 <img width="339" alt="PWM_40%Dutycycle" src="https://user-images.githubusercontent.com/89761363/133668009-3fcbc2f4-cccf-435b-aed4-122eccbba593.PNG">
 <img width="323" alt="PWM_70%Dutycycle" src="https://user-images.githubusercontent.com/89761363/133668336-56020399-2b58-4a2e-93ef-7625cb99d9e9.PNG">
+https://www.code-inspector.com/project/28893/score/svg
+https://www.code-inspector.com/project/28893/status/svg
