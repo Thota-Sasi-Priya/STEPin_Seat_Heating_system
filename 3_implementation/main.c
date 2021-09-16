@@ -16,7 +16,7 @@ int main(void)
     activity1();
     InitADC();
     activity3();
-    uint16_t ADC_Value;
+    uint16_t ADC_Value, temp;
 
     while(1)
     {
@@ -24,8 +24,8 @@ int main(void)
                 _delay_ms(20);
                 SET_LED_ON; //set portB0 it will ON the led
                 ADC_Value = ReadADC(0);
-                
-                
+                temp=PWMoutput(ADC_Value);//generates the PWM output
+                _delay_ms(20);
                 
             }
             else
