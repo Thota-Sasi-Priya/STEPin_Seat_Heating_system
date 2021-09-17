@@ -1,4 +1,7 @@
 # STEPin_Seat_Heating_system
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/79feea4f48454e4b85c1e0cf122c63cd)](https://app.codacy.com/gh/Thota-Sasi-Priya/STEPin_Seat_Heating_system?utm_source=github.com&utm_medium=referral&utm_content=Thota-Sasi-Priya/STEPin_Seat_Heating_system&utm_campaign=Badge_Grade_Settings)
+
 <Activity1>
 If a person sit in the car then the button sensor activates and heater gets turn on then LED will glows.
 <img width="281" alt="ON" src="https://user-images.githubusercontent.com/89761363/133665899-6b61fa3e-17d5-4acd-b895-ad20b6ec32f1.PNG">
