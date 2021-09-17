@@ -13,3 +13,4 @@ By using these PWM, the digital values we can see on the oscilloscope.
 
 <img src="https://www.code-inspector.com/project/28893/score/svg" />
 <img src="https://www.code-inspector.com/project/28893/status/svg" />
+<img src="https://app.codacy.com/project/badge/Grade/56453ddfe3c044758194fd09ecf6158d"/>(https://www.codacy.com/gh/Thota-Sasi-Priya/STEPin_Seat_Heating_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Thota-Sasi-Priya/STEPin_Seat_Heating_system&amp;utm_campaign=Badge_Grade)
